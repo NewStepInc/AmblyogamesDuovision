@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Logo (Splash) -->
+    <string name="logo">Votre oeil amblyope au travail</string>
+
+    <!-- Message Texts -->
+    <!--<string name="msg_exit">Duovision will be closed. Is it okay?</string>-->
+
+    <string name="msg_calib_color_title">Calibrer les couleurs avant de jouer?</string>
+    <string name="msg_calib_color_content"><p>Il est recommandé d\'ajuster les couleurs affichées selon vos <br/><a href="http://duovision.com/anaglyph-buy">lunettes anaglyphes</a></p></string>
+    <string name="msg_setup_timecounter">Le compteur de temps joué est remis à zéro.</string>
+    <string name="msg_setup_switchcolors">Les deux couleurs ont été inversées.</string>
+    <string name="msg_setup_defaultcolor">Les deux couleurs ont été remises à zéro.</string>
+
+    <string name="msg_setup_confirm_defaultcolor">Cela va effacer tous vos paramétrages de calibration. Etes-vous sûr(e)?</string>
+    <string name="msg_setup_confirm_timereset">Cela effacera vos données enregistrées. Etes-vous sûr(e) ?</string>
+
+    <string name="msg_bill_title">Mettre à niveau maintenant pour accéder : </string>
+    <string name="msg_bill_content">- au jeu Serpent
+                                \r\n- au jeu de Ping Pong
+                                \r\n- aux statistiques détaillées de votre activité</string>
+                                
+    <string name="msg_calib_validate1">Il semble que vous puissiez utiliser cette application sans problème.
+                                        \n\nNéanmoins, si vous ressentez le moindre symptôme (maux de tête, vision double, ...), arrêtez immédiatement de jouer et contactez nous (contact@duovision.com).</string>
+    <string name="msg_calib_validate2">Il est possible que vous ayez une pathologue qui n\'est pas compatible avec l\'usage de cette application.
+                                       \n\nUtiliser cette application peut vous donner une vision double (diplopie). Nous vous recommandons de ne pas utiliser l\'application, et de consulter un ophtalmologiste.</string>
+    <string name="msg_calib_validate3">Le signal de votre oeil est possiblement toujours supprimé par l\'amblyopie.
+                                       \n\nEssayez de vous concentrer sur l\'image, et de mettre une goutte de serum physiologique dans votre oeil amblyope pour suspendre temporairement la suppression.</string>
+
+    <string name="msg_btn_later">PLUS TARD</string>
+    <string name="msg_btn_calib">OUI, CALIBRER</string>
+    <string name="msg_btn_yes">OUI</string>
+    <string name="msg_btn_no">NON</string>
+    <string name="msg_btn_ok">OK</string>
+    <string name="msg_btn_upgrade">METTRE A NIVEAU</string>
+    <string name="msg_btn_nothanks">NON, MERCI</string>
+    <string name="msg_btn_back">RETOUR</string>
+    <string name="msg_btn_leave">QUITTER L\'APP</string>
+    <string name="msg_btn_start">DEMARRER</string>
+    <string name="msg_btn_previous">RETOUR</string>
+
+    <!-- Titles -->
+    <string name="app_name">Duovision</string>
+    <string name="app_gameselect">Jeux</string>
+    <string name="app_subsetup">Paramètres des jeux</string>
+    <string name="app_tetris">Briques</string>
+    <string name="app_snake">Serpent</string>
+    <string name="app_pong">Ping Pong</string>
+    <string name="app_setup">Réglages</string>
+    <string name="app_setup_calibrate1">Calibrage des couleurs (1/3)</string>
+    <string name="app_setup_calibrate2">Calibrage des couleurs (2/3)</string>
+    <string name="app_setup_calibrate3">Calibrage des couleurs (3/3)</string>
+    <string name="app_reminder">Règles de notification</string>
+    <string name="app_usage">Statistiques d\'usage</string>
+    <string name="app_advanced">Statistiques</string>
+
+    <string name="accept_start">DEMARRER</string>
+    <string name="accept_accept">J\'ai lu et j\'accepte</string>
+    <string name="accept_content">Cette application reproduit le procédé utilisé dans la recherche contre l\'amblyopie. Ce produit n\'est pas un dispositif médical.
+                                \n\Des <br/><a href="http://duovision.com/anaglyph-buy">lunettes anaglyphes</a> sont nécessaires pour jouer.
+                                \n\nVous ne devez pas jouer si vous êtes atteint de strabisme.
+                                \n\nSi vous êtes victime de vision double, mal de tête, ou tout autre symptôme, arrêtez d\'utiliser l\'application et contactez-nous :
+                                \ncontact@duovision.com
+                                \n\nEn savoir plus sur l\'amblyopie : 
+                                \nduovision.com</string>
+    <string name="accept_toast">Vous devez accepter les conditions pour pouvoir commencer</string>
+
+
+    <!-- Main Scene Buttons -->
+    <string name="main_play">JOUER</string>
+    <string name="main_warning">Ce jeu requiert des lunettes anaglyphes (3D)</string>
+    <string name="main_find">OBTENIR</string>
+    <string name="main_about">A PROPOS</string>
+
+
+    <!-- Main Scene Buttons -->
+    <!--<string name="main_play">JOUER</string>
+    <string name="main_setup">REGLAGES</string>
+    <string name="main_stat">PLUS DE STATISTIQUES </string>
+    <string name="main_buy_glasses">OBTENIR</string>
+    <string name="main_about"><p><a href="http://duovision.com/fr/traitement-amblyopie/">A PROPOS</a></p></string>
+    <string name="main_stat_time">temps de jeu aujourd\'hui</string>
+    <string name="main_stat_notime">Pas de jeu</string>-->
+
+    <!-- Set up List Items -->
+    <string name="setup_item1">Calibrer les couleurs</string>
+    <string name="setup_content1">Ajustez les couleurs affichées à votre lunettes, afin que chaque oeil puisse voir une image distincte.</string>
+    <string name="setup_item2">Inverser les couleurs</string>
+    <string name="setup_content2">Inverser les images qui sont affichées à chaque oeil</string>
+    <string name="setup_item3">Remettre les couleurs par défault</string>
+    <string name="setup_item4">Définir un rappel</string>
+    <string name="setup_content4">Ajoutez des rappels (notifications) pour jouer à l\'heure que vous souhaitez</string>
+    <string name="setup_item5">Remise à zéro du temps de jeu</string>
+    <string name="setup_content5">Remet à zéro les performances et le temps de jeu</string>
+    <string name="setup_item6">Activer la vibration pendant le jeu</string>
+
+    <!-- Subsetup List Items -->
+    <string name="subsetup_item1">Vitesse de jeu (difficulté)</string>
+    <string name="subsetup_content1_1">facile</string>
+    <string name="subsetup_content1_2">moyen</string>
+    <string name="subsetup_content1_3">difficile</string>
+    <string name="speed_10">10% (facile)</string>
+    <string name="speed_50">50% (moyen)</string>
+    <string name="speed_100">100% (difficile)</string>
+    <string name="subsetup_item2">Augmenter automatiquement la vitesse</string>
+    <string name="subsetup_content2">Augmente la vitesse au fur et à mesure de la progression</string>
+
+    <!-- Color Calibrate Scene Texts -->
+    <string name="calib_left_header">Calibrer l\'oeil avec le filtre rouge</string>
+    <string name="calib_left_content">Mettez les lunettes anaglyphes, et fermez votre oeil derrière le filtre bleu (ou vert).\r\nAjustez la couleur avec la palette, afin que le carré ne soit plus visible à l\'intérieur du cercle.</string>
+    <string name="calib_right_header">Calibrer l\'oeil avec le filtre bleu</string>
+    <string name="calib_right_content">Fermez votre oeil derrière le filtre rouge.\r\nAjustez la couleur avec la palette, afin que le carré ne soit plus visible à l\'intérieur du cercle.</string>
+    <string name="calib_morecolor">Plus de couleurs > </string>
+    <string name="calib_btn_reset">REMISE A ZERO</string>
+    <string name="calib_btn_next">SUIVANT ></string>
+     <string name="calib_validate_header">Que voyez-vous avec vos lunettes anaglyphes, avec les deux yeux ouverts ?</string>
+    <string name="calib_choice1">Un carré parfait, stable, composé de deux triangles</string>
+    <string name="calib_choice2">Un carré imparfait (les triangles ne sont pas alignés, il ya un espace entre les triangles, les triangles se déplacent, les triangles ont deux tailles ou formes différentes...)</string>
+    <string name="calib_choice3">Seulement un triangle</string>
+    <string name="calib_btn_validate">VALIDER</string>
+
+    <!-- Usage statistics -->
+    <string name="usage_playedtime">Temps de jeu</string>
+    <string name="usage_started">Activité depuis</string>
+    <string name="usage_activedays">Jours de jeu actif</string>
+    <string name="usage_advanced">Statistiques avancées</string>
+
+    <string name="usage_ago"></string>
+    <string name="usage_today">Aujourd\'hui</string>
+    <string name="usage_noplay">Pas de données</string>
+    <string name="usage_year_single">année</string>
+    <string name="usage_year_plural">années</string>
+    <string name="usage_month_single">mois</string>
+    <string name="usage_month_plural">mois</string>
+    <string name="usage_day_single">jour</string>
+    <string name="usage_day_plural">jours</string>
+    <string name="usage_hour_single">heure</string>
+    <string name="usage_hour_plural">heures</string>
+    <string name="usage_min_single">minute</string>
+    <string name="usage_min_plural">minutes</string>
+    <string name="usage_sec_single">seconde</string>
+    <string name="usage_sec_plural">secondes</string>
+
+    <!-- Advanced Statistics -->
+    <string name="advan_stat_title">Avancé</string>
+    <string name="advan_stat_today">Aujourd\'hui</string>
+    <string name="advan_stat_yesterday">Hier</string>
+    <string name="advan_stat_seven">7 derniers jours</string>
+    <string name="advan_stat_month">Le mois dernier</string>
+    <string name="advan_stat_period">Période</string>
+
+    <string name="advan_stat_time">Minutes jouées</string>
+    <string name="advan_stat_diagram">Jeux joués</string>
+    <string name="advan_stat_points">Points</string>
+    <string name="advan_stat_speed">Vitesse moyenne</string>
+    <string name="advan_stat_score_tetris">Blocs - lignes retirées</string>
+    <string name="advan_stat_score_snake">Serpent - nourriture mangée</string>
+    <string name="advan_stat_score_pong">Score Ping Pong -marqué/concédé</string>
+    <string name="advan_stat_cumulated">Cumulé</string>
+    <string name="advan_stat_nodata">Pas de données</string>
+    <string name="advan_stat_point_single">point</string>
+    <string name="advan_stat_point_plural">points</string>
+    <string name="advan_stat_line_single">ligne</string>
+    <string name="advan_stat_line_plural">lignes</string>
+    <string name="advan_stat_food_single">bloc</string>
+    <string name="advan_stat_food_plural">blocs</string>
+    <string name="advan_stat_hour_simpleunit">h</string>
+
+    <!-- Reminder -->
+    <string name="reminder_activate">Activer le rappel</string>
+    <string name="reminder_activate_content">Une notification sera affichée quand vous le souhaiterez, pour vous rappeler de vous exercer</string>
+    <string name="reminder_settime">Choix de l\'heure</string>
+    <string name="reminder_setday">Choix du jour</string>
+    <string name="reminder_day_mon">Lun</string>
+    <string name="reminder_day_tue">Mar</string>
+    <string name="reminder_day_wed">Mer</string>
+    <string name="reminder_day_thu">Jeu</string>
+    <string name="reminder_day_fri">Ven</string>
+    <string name="reminder_day_sat">Sam</string>
+    <string name="reminder_day_sun">Dim</string>
+
+    <string name="noti_title">Rappel Duovision</string>
+    <string name="noti_content">Il est temps de vous exercer.</string>
+    <string name="noti_setup">REGLAGES</string>
+    <string name="noti_play">JOUER</string>
+
+    <!-- Date Range Picker Dlg -->
+    <string name="dlg_daterange_title">Période</string>
+    <string name="dlg_set">OK</string>
+    <string name="dlg_cancel">ANNULER</string>
+    <string name="dlg_daterange_from">Du</string>
+    <string name="dlg_daterange_to">au</string>
+    <string name="dlg_time_title">Heure du rappel</string>
+
+    <!-- Tooltip -->
+    <string name="tooltip_setup_btn">Options\r\n(vitesse...)</string>
+    <string name="tooltip_stat_btn">Statistiques\r\nd\'usage</string>
+    <string name="tooltip_tetris_title">Règles du jeu - Blocs </string>
+    <string name="tooltip_tetris">Pour jouer, placez les blocs descendant dans les espaces en bas en utilisant les flèches de contrôle, afin de créer des lignes complètes.\r\nVous pouvez faire tourner les blocs sur eux-mêmes.\r\nChaque ligne complétée disparaîtra, laissera de l\'espace pour les blocs tombants suivants.</string>
+
+    <string name="tooltip_snake_title">Règles du jeu Serpent</string>
+    <string name="tooltip_snake">Pour jouer au jeu, déplacez le serpent avec les flèches de contrôle, afin qu\'il se nourrise des blocs de nourriture.\r\nVous perdez si le serpent se mord lui même ou s\'il sort de l\'écran.</string>
+    <string name="tooltip_pong_title">Règles du jeu Ping Pong</string>
+    <string name="tooltip_pong">Vous contrôlez la raquette à droite de l\'écran.\r\nL\'autre raquette est controlée par votre appareil.\r\nPlacez votre doigt sur l\'espace à droite pour déplacer la raquette et renvoyer la balle.</string>
+
+    <!-- Game Over -->
+    <string name="gameover_title">Le jeu est terminé.</string>
+    <string name="gameover_content">Vous avez marqué (score) et (action) (concede).\r\nVous avez joué (time) aujourd\'hui.\r\n\r\nRecommencer?</string>
+    <string name="tetris_action">vous avez complété</string>
+    <string name="snake_action">le serpent a mangé</string>
+    <string name="pong_action">le score est</string>
+
+    <!-- Leave Game -->
+    <string name="leavegame_content">Vous avez marqué (score) points et (action) (concede).\r\nVous avez joué (time) aujourd\'hui.\r\n\r\nQuitter le jeu?</string>
+
+    <!-- Ping Pong -->
+    <string name="pong_device">Appareil : </string>
+    <string name="pong_player">Joueur : </string>
+
+</resources>
